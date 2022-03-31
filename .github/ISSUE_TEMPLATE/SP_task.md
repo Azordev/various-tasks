@@ -7,6 +7,10 @@ about: You've find some bug when reviewing SP Project
 ### Explanation
 (A clear and concise explication about the task.)
 
+**Actual result:** (write how it is now)
+
+**Expected result:** (I write how I want to see it)
+
 *Screen size:* (Add the size of your screen )
 
 ### Screenshots
